@@ -1,0 +1,17 @@
+/*comentarios*/
+body {
+    margin: 0;
+    padding: 20px;
+}
+div {
+    background-color: bisque;
+}
+li {
+    color: red;
+}
+.texto {
+    color:blueviolet
+}
+#texto2 {
+    color: green
+}
